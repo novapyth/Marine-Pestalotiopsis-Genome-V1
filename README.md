@@ -1,4 +1,5 @@
 Marine-Pestalotiopsis-Genome-V1
+---
 
 Genomic Sequences: 
 Pestalotiopsis_Genome_Version1.fasta.zip
@@ -8,7 +9,6 @@ Annotated_Protein_Pestalotiopsis_Version1.fasta.zip
 
 
 ---
-
 ### *Pestalotiopsis* sp. KF079
 
 Marine fungi constitute an underexplored reservoir of genetic and metabolic diversity capable of producing structurally unique secondary metabolites. Nevertheless, genomic resources describing their biosynthetic capabilities remain scarce. To expand our understanding of marine fungal biosynthesis, we sequenced and characterised the genome of *Pestalotiopsis* sp. KF079, a marine fungal isolate collected from the German Wadden Sea.
